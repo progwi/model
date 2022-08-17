@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "e1876af9-8c24-46b2-92b2-45e303cff654",
+    "colId": "fba170b3-dc16-4775-8879-ea9661e0aa76",
+    "containerId": "",
+    "name": "list",
+    "url": "localhost:8080/persons",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2022-08-17T15:48:07.946Z",
+    "modified": "2022-08-17T15:48:30.341Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
